@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D08CE9B25C8BD7C00738D0A /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D08CE9A25C8BD7B00738D0A /* UserInfo.swift */; };
 		2DAC33E825BF8FC900D97919 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAC33E725BF8FC900D97919 /* AppDelegate.swift */; };
 		2DAC33EA25BF8FC900D97919 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAC33E925BF8FC900D97919 /* SceneDelegate.swift */; };
 		2DAC33EC25BF8FC900D97919 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAC33EB25BF8FC900D97919 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D08CE9A25C8BD7B00738D0A /* UserInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfo.swift; sourceTree = "<group>"; };
 		2DAC33E425BF8FC800D97919 /* SwiftUISample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUISample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DAC33E725BF8FC900D97919 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DAC33E925BF8FC900D97919 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				2DAC33E725BF8FC900D97919 /* AppDelegate.swift */,
 				2DAC33E925BF8FC900D97919 /* SceneDelegate.swift */,
 				2DAC33EB25BF8FC900D97919 /* ContentView.swift */,
+				2D08CE9A25C8BD7B00738D0A /* UserInfo.swift */,
 				2DAC33ED25BF8FCA00D97919 /* Assets.xcassets */,
 				2DAC33F225BF8FCA00D97919 /* LaunchScreen.storyboard */,
 				2DAC33F525BF8FCA00D97919 /* Info.plist */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D08CE9B25C8BD7C00738D0A /* UserInfo.swift in Sources */,
 				2DAC33E825BF8FC900D97919 /* AppDelegate.swift in Sources */,
 				2DAC33EA25BF8FC900D97919 /* SceneDelegate.swift in Sources */,
 				2DAC33EC25BF8FC900D97919 /* ContentView.swift in Sources */,
